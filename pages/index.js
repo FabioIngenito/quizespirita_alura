@@ -9,7 +9,8 @@ import QuizLogo from '../src/components/QuizLogo';
 import QuizBackground from '../src/components/QuizBackground';
 import Footer from '../src/components/Footer';
 import GitHubCorner from '../src/components/GitHubCorner';
-
+import Input from '../src/components/Input';
+import Button from '../src/components/Button';
 
 // const Title = styled.h1`
 //   font-size: 50px;
@@ -44,6 +45,7 @@ export const QuizContainer = styled.div`
 
 export default function Home() {
   const router = useRouter();
+  //https://pt-br.reactjs.org/docs/hooks-state.html
   const [name, setName] = React.useState('');
   //console.log('retorno do useState', name, setName)
 
@@ -68,18 +70,29 @@ export default function Home() {
                 //console.log('Fazendo uma submissão por meio do React');
             }}
             >
-              <input 
-              onChange={function(infosDoEnvento) {
+{/*               <Input 
+                  name="nomeDoUsuario"
+                  onChange={(infosDoEnvento) => {
                   //console.log(infosDoEnvento.target.value);
                   // State
                   //name = infosDoEnvento.target.value;
-                  setName(infosDoEnvento.target.value);
+                  setName(infosDoEnvento.target.value)
               }}
               placeholder="Por favor, digite seu nome." 
+              value={name}
               />
+*/}
+
+              <Input 
+                name="nomeDoUsuario"
+                OnChange={(infosDoEnvento) => setName(infosDoEnvento.target.value)}
+                placeholder="Por favor, digite seu nome."
+                value={name}
+              />
+
               <button type="submit" disabled={name.length === 0}>
-                  Jogar 
-                  {name}
+                  {/* Jogar {name} */}
+                  {`Jogar ${name} `}
               </button>
             </form>
           </Widget.Content>
