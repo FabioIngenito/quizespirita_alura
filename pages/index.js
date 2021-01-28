@@ -32,7 +32,7 @@ import Button from '../src/components/Button';
 //  )
 //}
 
-export const QuizContainer = styled.div`
+const QuizContainer = styled.div`
   width: 100%;
   max-width: 350px;
   padding-top: 45px;
@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
       <Head>
-        <title>Quiz Espírita - Modelo Base</title>
+        <title>{db.title}</title>
       </Head>
       <QuizContainer>
         <QuizLogo />
@@ -64,7 +64,6 @@ export default function Home() {
             <p>{db.description}</p>
             <form onSubmit={function (infosDoEnvento) {
                 infosDoEnvento.preventDefault();
-
                 // router manda para a próxima página
                 router.push(`/quiz?name=${name}`);
                 //console.log('Fazendo uma submissão por meio do React');
@@ -82,31 +81,28 @@ export default function Home() {
               value={name}
               />
 */}
-
-              <Input 
+              <Input
                 name="nomeDoUsuario"
-                OnChange={(infosDoEnvento) => setName(infosDoEnvento.target.value)}
+                onChange={(infosDoEvento) => setName(infosDoEvento.target.value)}
                 placeholder="Por favor, digite seu nome."
                 value={name}
-              />
-
-              <button type="submit" disabled={name.length === 0}>
-                  {/* Jogar {name} */}
-                  {`Jogar ${name} `}
-              </button>
-            </form>
-          </Widget.Content>
-        </Widget>
-
-        <Widget>
-          <Widget.Content>
-            <h1>Quizes da Galera</h1>
-
-            <p>lorem ipsum dolor sit amet...</p>
-          </Widget.Content>
-        </Widget>
-        <Footer />
-      </QuizContainer>
+                />
+                <Button type="submit" disabled={name.length === 0}>
+                  {`Jogar ${name}`}
+                </Button>
+              </form>
+            </Widget.Content>
+          </Widget>
+  
+          <Widget>
+            <Widget.Content>
+              <h1>Quizes da Galera</h1>
+  
+              <p>lorem ipsum dolor sit amet...</p>
+            </Widget.Content>
+          </Widget>
+          <Footer />
+        </QuizContainer>
       <GitHubCorner projectUrl="https://github.com/FabioIngenito/quizespirita_alurabase" />
     </QuizBackground>
   );
