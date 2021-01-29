@@ -185,8 +185,21 @@
       }
     ],
     "external": [
-      "https://aluraquiz-css.omariosouto.vercel.app/",
-      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+      "https://typequiz.caducarvalho.vercel.app/",
+      "https://quiz-contemplese.ricardoltt.vercel.app/",
+      "https://design-pattern-quiz.fernandoasg.vercel.app/",
+      "https://you-dont-know-js-quiz.vercel.app/",
+      "https://chessquiz-alura.leo0liveira.vercel.app/",
+      "https://quiz-imersao-react.olucasalves.vercel.app/",
+      "https://churrasquiz.reginokaa.vercel.app/",
+      "https://wanda-vision-aluraquiz.marilira.vercel.app/",
+      "https://dontstarvetogether-base.lucaserlerpereira.vercel.app/",
+      "https://imersao-react-nextjs.fallying.vercel.app/",
+      "https://quiz-livros.luizaacampos.vercel.app/",
+      "https://harry-potter-quiz.lucianoweslen11.vercel.app/",
+      "https://alura-quiz-4tmo0mwdf.vercel.app/",
+      "https://aluraquizpokemon.cesarrobertopg.vercel.app/",
+      "https://aluraquiz-halloween.lucaskuhn.vercel.app/"
     ],
     "theme": {
       "colors": {
