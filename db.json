@@ -1,215 +1,230 @@
 {
-    "bg": "QuizEspirita.jpg",
-    "title": "Quiz Espírita",
-    "description": "Teste os seus conhecimentos sobre Espiritismo de Allan Kardec!",
-    "questions": [
-      {
-        "image": "https://4.bp.blogspot.com/-OSCyQkjcbJg/UPRqZHp8kXI/AAAAAAAAAaw/s_zR4f8I5oY/s1600/mesas-girantes.gif",
-        "title": "Qual é o ponto de partida de ESTUDO do espiritismo?",
-        "description": "Onde tudo começou. Main Page!",
-        "answer": 0,
-        "alternatives": [
-          "O fenômeno das mesas girantes;",
-          "As ideias vindas de Allan Kardec;",
-          "Uma reunião entre estudiosos franceses;",
-          "Os fenômenos dos médiuns escreventes;"
-        ]
-      },
-      {
-        "image": "https://www.autoresespiritasclassicos.com/Autores%20Espiritas%20Classicos%20%20Diversos/Ernesto%20Bozzano/29/As%20Irm%C3%A3s%20Fox.jpg",
-        "title": "Qual forma que os espíritos usaram para se comunicar no princípio?",
-        "description": "O primeirão método de comunicação. DICA: Foi antes do Microsoft DOS...",
-        "answer": 2,
-        "alternatives": [
-          "Médiuns falantes;",
-          "Materializações;",
-          "Pancadas (RAPS);",
-          "Inspiração;"
-        ]
-      },
-      {
-        "image": "https://espiritismonapratica.com.br/uploads/images/2016/05/o-que-e-ser-espirita-segundo-o-kardec-1463500113.jpg",
-        "title": "De onde vieram os ensinamentos espíritas?",
-        "description": "Como foi criada a Religião + Ciência + Filosofia... e também a Microsoft?",
-        "answer": 3,
-        "alternatives": [
-          "Da cabeça de Kardec;",
-          "De obras que Kardec psicografou pessoalmente;",
-          "De uma revelação divina que NÃO deve ser contestada;",
-          "De informações dos espíritos recolhidas de diversos médiuns, ordenadas por Kardec;"
-        ]
-      },
-      {
-        "image": "https://www.kardecriopreto.com.br/wp-content/uploads/2017/10/maxresdefault-660x330.jpg",
-        "title": "O espiritismo é cristão?",
-        "description": "Lembra-se do Consolador Prometido? Promessa é dívida!",
-        "answer": 3,
-        "alternatives": [
-          "SIM, pois acreditamos que Jesus é DEUS;",
-          "NÃO, porque NÃO acreditamos que Jesus é DEUS;",
-          "SIM, porque Jesus veio nos salvar;",
-          "SIM, porque seguimos a moral do Cristo;"
-        ]
-      },
-      {
-        "image": "https://www.fraseseversos.com/imagens/allan-kardec/num-axioma-que-aplicais-as-vossas-ciencias-nao-ha-efeito-sem-br-causa-procurai-a-causa_1.jpg",
-        "title": "Complete a frase de Allan Kardec: “Se todo efeito tem uma causa. Todo efeito inteligente tem um(a) ________________”",
-        "description": "Só precisa usar a razão. Por favor, pense!",
-        "answer": 2,
-        "alternatives": [
-          "causa paranormal;",
-          "efeito inteligente;",
-          "causa inteligente;",
-          "efeito paranormal;"
-        ]
-      },
-      {
-        "image": "http://luzdoespiritismo.com/wp-content/uploads/2014/01/6.jpg",
-        "title": "Como éramos quando Deus no criou?",
-        "description": "Se falar que era bebê... chegou perto... tipo um RESET, uma partida à quente.",
-        "answer": 1,
-        "alternatives": [
-          "Alguns Bons outros Maus;",
-          "Simples e Ignorantes;",
-          "Simplesmente Bons;",
-          "Muito Maus;"
-        ]
-      },
-      {
-        "image": "https://cdn.pensador.com/img/frase/al/la/allan_kardec_a_reencarnacao_e_uma_questao_de_justica_l1z9d3j.jpg",
-        "title": "Porque reencarnamos?",
-        "description": "Seria para pagar até o último centil? Também, com certeza!",
-        "answer": 0,
-        "alternatives": [
-          "Para aprender e evoluir;",
-          "Porque Deus quis assim;",
-          "Para pagar o pecado original;",
-          "NÃO reencarnamos;"
-        ]
-      },
-      {
-        "image": "https://espiritismodaalma.files.wordpress.com/2017/10/culto.jpg?w=695&h=280",
-        "title": "Qual é a forma de CULTO que o espiritismo NÃO prega?",
-        "description": "Não confunda com Candomblé, Umbanda, Java ou React + Next! Espere! 'NeXT' (1985) não é nome de computador???",
-        "answer": 3,
-        "alternatives": [
-          "Dogmas e rituais;",
-          "Indumentárias e amuletos;",
-          "Palavras sacras e mágicas, padres e templos;",
-          "Todas as alternativas acima estão corretas;"
-        ]
-      },
-      {
-        "image": "http://luzdoespiritismo.com/wp-content/uploads/2014/05/espiritismo.jpg",
-        "title": "Qual é o objetivo essencial do espiritismo?",
-        "description": "Dica: Pense em algo mais amplo... tipo C#, algo assim...",
-        "answer": 2,
-        "alternatives": [
-          "Levar mais pessoas para assistir palestras e tomar passes;",
-          "Comunicar-se com os espíritos;",
-          "Adiantamento dos homens pelo progresso moral e intelectual;",
-          "Impor seus ensinamentos a todas as religiões;"
-        ]
-      },
-      {
-        "image": "https://www.verdadeluz.com.br/wp-content/uploads/2014/10/LEI-DE-DEUS-ALLAN-KARDEC.jpg",
-        "title": "Que é Deus?",
-        "description": "A pergunda é 'QUE' e Não 'QUEM'!",
-        "answer": 3,
-        "alternatives": [
-          "Deus é um ser supremo que junto do diabo brincam com os homens;",
-          "Deus é composto por tudo e todos;",
-          "Deus é alguém que está jogando 'The Sims';",
-          "Deus é a inteligência suprema, causa primária de todas as coisas;"
-        ]
-      },
-      {
-        "image": "https://kardec.blog.br/wp-content/uploads/2019/08/perdao-texto-ideak-1250x938.jpg",
-        "title": "Deus nos deixou na Terra entregues a nós mesmos, sem auxílio para evoluirmos?",
-        "description": "Tú és un Ermitão por acaso?",
-        "answer": 1,
-        "alternatives": [
-          "Sim, precisamos nos virar sozinhos;",
-          "Não, temos nossos espíritos protetores, os espíritos superiores encarnados de tempos em tempos Também trouxe as 3 revelações, além de ter guardado a lei na consciência do homem;",
-          "Sim, pois a lei já está guardada na nossa consciência;",
-          "Não, pois estamos em um planeta de Provas e Expiações;"
-        ]
-      },
-      {
-        "image": "https://i.pinimg.com/originals/7c/da/e9/7cdae9bae70a4799d52953706b2b27cd.jpg?epik=dj0yJnU9cEFIUjZkcTNXWjRjVmZtSEQzM2w5MHpveUktZERWUVMmcD0wJm49UHRhaUxHWjdxeDM3YzdzelhDZmpCQSZ0PUFBQUFBR0FTX0FZ",
-        "title": "Existem 'penas eternas'?",
-        "description": "Almas eternamente penadas... seria uma falha na construção do sistema? Um BUG de código-fonte? Mas o programador deste sistema é perfeito! Não tem BUG!",
-        "answer": 2,
-        "alternatives": [
-          "Sim, os bons vão para o céu e os maus vão para inferno;",
-          "Sim, após o dia do juízo final Deus irá separar os bons dos maus;",
-          "Não, o que existe são as consequências naturais de nossos atos. Paramos de sofrê-las quando nos arrependemos corrigimos o erro e mudamos nosso comportamento;",
-          "Não, existe um tempo pré-determinado para pagar nossos erros;"
-        ]
-      },
-      {
-        "image": "https://4.bp.blogspot.com/-4Hw3UwYkims/ViRfKBQgdgI/AAAAAAAAh4Q/-W0RbACSEm8/s640/frase-fora-da-caridade-nao-ha-salvacao-allan-kardec-91625.jpg",
-        "title": "Qual é a máxima do espiritismo?",
-        "description": "A palavra máxima deriva do latim 'maxima', com o sentido de a maior proposição.",
-        "answer": 1,
-        "alternatives": [
-          "Fora do espiritismo não há salvação;",
-          "Fora da caridade não há salvação;",
-          "O espiritismo é apenas para os eleitos de Deus que são os trabalhadores da última hora;",
-          "Basta se arrepender para ser salvo;"
-        ]
-      },
-      {
-        "image": "https://www.verdadeluz.com.br/wp-content/uploads/2015/02/allan-kardec-esp%C3%ADrita-730x410.jpg",
-        "title": "Como se reconhece o verdadeiro espírita?",
-        "description": "O melhor código-fonte é o que tem maior número de linhas... só que NÃO! KKKKK!!!",
-        "answer": 0,
-        "alternatives": [
-          "Pelo esforço que faz para se melhorar;",
-          "Pelo conhecimento que tem da doutrina;",
-          "Pela quantidade de vezes por semana que vai ao Centro Espírita;",
-          "Pelos livros que já leu;"
-        ]
-      },
-      {
-        "image": "https://4.bp.blogspot.com/-oRLZeEtYmKQ/UZ4hwdoqujI/AAAAAAAAAA8/iAMtbMwejoY/s1600/BEZERRA2.jpg",
-        "title": "As almas dos que morreram podem se comunicar com os vivos?",
-        "description": "Dica: Use TODA sua CPU e TODA sua memória!",
-        "answer": 3,
-        "alternatives": [
-          "Sim, mas é uma coisa que NÃO deve ser feita;",
-          "Sim, mas somente dentro de Centros Espíritas;",
-          "Não é possível essa comunicação;",
-          "Nenhuma das respostas anteriores está correta;"
-        ]
-      }
-    ],
-    "external": [
-      "https://typequiz.caducarvalho.vercel.app/",
-      "https://quiz-contemplese.ricardoltt.vercel.app/",
-      "https://design-pattern-quiz.fernandoasg.vercel.app/",
-      "https://you-dont-know-js-quiz.vercel.app/",
-      "https://chessquiz-alura.leo0liveira.vercel.app/",
-      "https://quiz-imersao-react.olucasalves.vercel.app/",
-      "https://churrasquiz.reginokaa.vercel.app/",
-      "https://wanda-vision-aluraquiz.marilira.vercel.app/",
-      "https://dontstarvetogether-base.lucaserlerpereira.vercel.app/",
-      "https://imersao-react-nextjs.fallying.vercel.app/",
-      "https://quiz-livros.luizaacampos.vercel.app/",
-      "https://harry-potter-quiz.lucianoweslen11.vercel.app/",
-      "https://alura-quiz-4tmo0mwdf.vercel.app/",
-      "https://aluraquizpokemon.cesarrobertopg.vercel.app/",
-      "https://aluraquiz-halloween.lucaskuhn.vercel.app/"
-    ],
-    "theme": {
-      "colors": {
-        "primary": "#00FFFF",
-        "secondary": "#29b6f6",
-        "mainBg": "#FFFFFF",
-        "contrastText": "#000000",
-        "wrong": "#FF5722",
-        "success": "#4CAF50"
-      },
-      "borderRadius": "5px"
+  "bg": "QuizEspirita.jpg",
+  "title": "Quiz Espírita",
+  "description": "Teste os seus conhecimentos sobre Espiritismo de Allan Kardec!",
+  "questions": [
+    {
+      "image": "https://4.bp.blogspot.com/-OSCyQkjcbJg/UPRqZHp8kXI/AAAAAAAAAaw/s_zR4f8I5oY/s1600/mesas-girantes.gif",
+      "title": "Qual é o ponto de partida de ESTUDO do espiritismo?",
+      "description": "Onde tudo começou. Main Page!",
+      "answer": 0,
+      "alternatives": [
+        "O fenômeno das mesas girantes;",
+        "As ideias vindas de Allan Kardec;",
+        "Uma reunião entre estudiosos franceses;",
+        "Os fenômenos dos médiuns escreventes;"
+      ],
+      "solution": "O fenômeno das mesas girantes; - Inicialmente, após o episódio das irmãs Fox, de Hydesville – Estados Unidos, a 31 de Março de 1848, em muitas outras casas também começaram a ocorrer os fenômenos das batidas (RAPS). A partir daí, iniciaram-se as tentativas de comunicação com os agentes invisíveis, passando-se mais tarde ao emprego das mesas girantes."
+    },
+    {
+      "image": "https://www.autoresespiritasclassicos.com/Autores%20Espiritas%20Classicos%20%20Diversos/Ernesto%20Bozzano/29/As%20Irm%C3%A3s%20Fox.jpg",
+      "title": "Qual forma que os espíritos usaram para se comunicar no princípio?",
+      "description": "O primeirão método de comunicação. DICA: Foi antes do Microsoft DOS...",
+      "answer": 2,
+      "alternatives": [
+        "Médiuns falantes;",
+        "Materializações;",
+        "Pancadas (RAPS);",
+        "Inspiração;"
+      ],
+      "solution": "Pancadas (RAPS); - Tiptologia é a forma de Comunicação obtida pela sucessão de pancadas ou batidas curtas feitas em algum material rígido, usualmente madeira, produzindo ruídos. A tiptologia é um fenômeno mediúnico de efeitos físicos. A Doutrina Espírita denomina de 'espíritos batedores' aqueles que se comunicam por meio de pancadas."
+    },
+    {
+      "image": "https://espiritismonapratica.com.br/uploads/images/2016/05/o-que-e-ser-espirita-segundo-o-kardec-1463500113.jpg",
+      "title": "De onde vieram os ensinamentos espíritas?",
+      "description": "Como foi criada a Religião + Ciência + Filosofia... e também a Microsoft?",
+      "answer": 3,
+      "alternatives": [
+        "Da cabeça de Kardec;",
+        "De obras que Kardec psicografou pessoalmente;",
+        "De uma revelação divina que NÃO deve ser contestada;",
+        "De informações dos espíritos recolhidas de diversos médiuns, ordenadas por Kardec;"
+      ],
+      "solution": "De informações dos espíritos recolhidas de diversos médiuns, ordenadas por Kardec;"
+    },
+    {
+      "image": "https://www.kardecriopreto.com.br/wp-content/uploads/2017/10/maxresdefault-660x330.jpg",
+      "title": "O espiritismo é cristão?",
+      "description": "Lembra-se do Consolador Prometido? Promessa é dívida!",
+      "answer": 3,
+      "alternatives": [
+        "SIM, pois acreditamos que Jesus é DEUS;",
+        "NÃO, porque NÃO acreditamos que Jesus é DEUS;",
+        "SIM, porque Jesus veio nos salvar;",
+        "SIM, porque seguimos a moral do Cristo;"
+      ],
+      "solution": "SIM, porque seguimos a moral do Cristo;"
+    },
+    {
+      "image": "https://www.fraseseversos.com/imagens/allan-kardec/num-axioma-que-aplicais-as-vossas-ciencias-nao-ha-efeito-sem-br-causa-procurai-a-causa_1.jpg",
+      "title": "Complete a frase de Allan Kardec: “Se todo efeito tem uma causa. Todo efeito inteligente tem um(a) ________________”",
+      "description": "Só precisa usar a razão. Por favor, pense!",
+      "answer": 2,
+      "alternatives": [
+        "causa paranormal;",
+        "efeito inteligente;",
+        "causa inteligente;",
+        "efeito paranormal;"
+      ],
+      "solution": "causa inteligente; - 'Todo efeito tem uma causa. Todo efeito inteligente tem uma causa inteligente. O poder da causa inteligente está na razão da grandeza do efeito.' Allan Kardec."
+    },
+    {
+      "image": "http://luzdoespiritismo.com/wp-content/uploads/2014/01/6.jpg",
+      "title": "Como éramos quando Deus no criou?",
+      "description": "Se falar que era bebê... chegou perto... tipo um RESET, uma partida à quente.",
+      "answer": 1,
+      "alternatives": [
+        "Alguns Bons outros Maus;",
+        "Simples e Ignorantes;",
+        "Simplesmente Bons;",
+        "Muito Maus;"
+      ],
+      "solution": "Simples e Ignorantes; - L.E. Q115. Uns Espíritos foram criados bons e outros maus? — Deus criou todos os Espíritos simples e ignorantes, ou seja, sem conhecimento. Deu a cada um deles uma missão, com o fim de os esclarecer e progressivamente conduzir à perfeição, pelo conhecimento da verdade e para os aproximar dele."
+    },
+    {
+      "image": "https://cdn.pensador.com/img/frase/al/la/allan_kardec_a_reencarnacao_e_uma_questao_de_justica_l1z9d3j.jpg",
+      "title": "Porque reencarnamos?",
+      "description": "Seria para pagar até o último centil? Também, com certeza!",
+      "answer": 0,
+      "alternatives": [
+        "Para aprender e evoluir;",
+        "Porque Deus quis assim;",
+        "Para pagar o pecado original;",
+        "NÃO reencarnamos;"
+      ],
+      "solution": "Para aprender e evoluir; - 'Nascer, morrer, renascer ainda e progredir sempre, tal é a lei.' Allan Kardec."
+    },
+    {
+      "image": "https://espiritismodaalma.files.wordpress.com/2017/10/culto.jpg?w=695&h=280",
+      "title": "Qual é a forma de CULTO que o espiritismo NÃO prega?",
+      "description": "Não confunda com Candomblé, Umbanda, Java ou React + Next! Espere! 'NeXT' (1985) não é nome de computador???",
+      "answer": 3,
+      "alternatives": [
+        "Dogmas e rituais;",
+        "Indumentárias e amuletos;",
+        "Palavras sacras e mágicas, padres e templos;",
+        "Todas as alternativas acima estão corretas;"
+      ],
+      "solution": "Todas as alternativas acima estão corretas;"
+    },
+    {
+      "image": "http://luzdoespiritismo.com/wp-content/uploads/2014/05/espiritismo.jpg",
+      "title": "Qual é o objetivo essencial do espiritismo?",
+      "description": "Dica: Pense em algo mais amplo... tipo C#, algo assim...",
+      "answer": 2,
+      "alternatives": [
+        "Levar mais pessoas para assistir palestras e tomar passes;",
+        "Comunicar-se com os espíritos;",
+        "Adiantamento dos homens pelo progresso moral e intelectual;",
+        "Impor seus ensinamentos a todas as religiões;"
+      ],
+      "solution": "Adiantamento dos homens pelo progresso moral e intelectual; - A moral é um conjunto de princípios que rege a vida dos indivíduos em uma sociedade. A intelectualidade é o crescimento do indivíduo dentro do conhecimento científico, no sentido mais amplo que se pode dar a esse termo."
+    },
+    {
+      "image": "https://www.verdadeluz.com.br/wp-content/uploads/2014/10/LEI-DE-DEUS-ALLAN-KARDEC.jpg",
+      "title": "Que é Deus?",
+      "description": "A pergunda é 'QUE' e Não 'QUEM'!",
+      "answer": 3,
+      "alternatives": [
+        "Deus é um ser supremo que junto do diabo brincam com os homens;",
+        "Deus é composto por tudo e todos;",
+        "Deus é alguém que está jogando 'The Sims';",
+        "Deus é a inteligência suprema, causa primária de todas as coisas;"
+      ],
+      "solution": "Deus é a inteligência suprema, causa primária de todas as coisas; - L.E. - Q1. Que é Deus? 'Deus é a inteligência suprema, causa primária de todas as coisas'"
+    },
+    {
+      "image": "https://kardec.blog.br/wp-content/uploads/2019/08/perdao-texto-ideak-1250x938.jpg",
+      "title": "Deus nos deixou na Terra entregues a nós mesmos, sem auxílio para evoluirmos?",
+      "description": "Tú és un Ermitão por acaso?",
+      "answer": 1,
+      "alternatives": [
+        "Sim, precisamos nos virar sozinhos;",
+        "Não, temos nossos espíritos protetores, os espíritos superiores encarnados de tempos em tempos Também trouxe as 3 revelações, além de ter guardado a lei na consciência do homem;",
+        "Sim, pois a lei já está guardada na nossa consciência;",
+        "Não, pois estamos em um planeta de Provas e Expiações;"
+      ],
+      "solution": "Não, temos nossos espíritos protetores, os espíritos superiores encarnados de tempos em tempos Também trouxe as 3 revelações, além de ter guardado a lei na consciência do homem; - As três revelações são: 1. Moisés; 2. Jesus; 3. O espiritismo;"
+    },
+    {
+      "image": "https://i.pinimg.com/originals/7c/da/e9/7cdae9bae70a4799d52953706b2b27cd.jpg?epik=dj0yJnU9cEFIUjZkcTNXWjRjVmZtSEQzM2w5MHpveUktZERWUVMmcD0wJm49UHRhaUxHWjdxeDM3YzdzelhDZmpCQSZ0PUFBQUFBR0FTX0FZ",
+      "title": "Existem 'penas eternas'?",
+      "description": "Almas eternamente penadas... seria uma falha na construção do sistema? Um BUG de código-fonte? Mas o programador deste sistema é perfeito! Não tem BUG!",
+      "answer": 2,
+      "alternatives": [
+        "Sim, os bons vão para o céu e os maus vão para inferno;",
+        "Sim, após o dia do juízo final Deus irá separar os bons dos maus;",
+        "Não, o que existe são as consequências naturais de nossos atos. Paramos de sofrê-las quando nos arrependemos corrigimos o erro e mudamos nosso comportamento;",
+        "Não, existe um tempo pré-determinado para pagar nossos erros;"
+      ],
+      "solution": "Não, o que existe são as consequências naturais de nossos atos. Paramos de sofrê-las quando nos arrependemos corrigimos o erro e mudamos nosso comportamento;"
+    },
+    {
+      "image": "https://4.bp.blogspot.com/-4Hw3UwYkims/ViRfKBQgdgI/AAAAAAAAh4Q/-W0RbACSEm8/s640/frase-fora-da-caridade-nao-ha-salvacao-allan-kardec-91625.jpg",
+      "title": "Qual é a máxima do espiritismo?",
+      "description": "A palavra máxima deriva do latim 'maxima', com o sentido de a maior proposição.",
+      "answer": 1,
+      "alternatives": [
+        "Fora do espiritismo não há salvação;",
+        "Fora da caridade não há salvação;",
+        "O espiritismo é apenas para os eleitos de Deus que são os trabalhadores da última hora;",
+        "Basta se arrepender para ser salvo;"
+      ],
+      "solution": "Fora da caridade não há salvação; - Meus filhos, na máxima: Fora da caridade não há salvação, estão contidos os destinos do homem sobre a Terra e no céu. Sobre a Terra, porque, à sombra desse estandarte, eles viverão em paz; e no céu, porque aqueles que a tiverem praticado encontrarão graça diante do Senhor. / Paulo / Paris 1860."
+    },
+    {
+      "image": "https://www.verdadeluz.com.br/wp-content/uploads/2015/02/allan-kardec-esp%C3%ADrita-730x410.jpg",
+      "title": "Como se reconhece o verdadeiro espírita?",
+      "description": "O melhor código-fonte é o que tem maior número de linhas... só que NÃO! KKKKK!!!",
+      "answer": 0,
+      "alternatives": [
+        "Pelo esforço que faz para se melhorar;",
+        "Pelo conhecimento que tem da doutrina;",
+        "Pela quantidade de vezes por semana que vai ao Centro Espírita;",
+        "Pelos livros que já leu;"
+      ],
+      "solution": "Pelo esforço que faz para se melhorar; - 'Reconhece-se o verdadeiro espírita pela sua transformação moral, e pelos esforços que faz para domar as suas más inclinações. Allan Kardec."
+    },
+    {
+      "image": "https://4.bp.blogspot.com/-oRLZeEtYmKQ/UZ4hwdoqujI/AAAAAAAAAA8/iAMtbMwejoY/s1600/BEZERRA2.jpg",
+      "title": "As almas dos que morreram podem se comunicar com os vivos?",
+      "description": "Dica: Use TODA sua CPU e TODA sua memória!",
+      "answer": 3,
+      "alternatives": [
+        "Sim, mas é uma coisa que NÃO deve ser feita;",
+        "Sim, mas somente dentro de Centros Espíritas;",
+        "Não é possível essa comunicação;",
+        "Nenhuma das respostas anteriores está correta;"
+      ],
+      "solution": "Nenhuma das respostas anteriores está correta; - As sessões mediúnicas NÃO SÃO recomendados fora de um ambiente preparado para isso, porém pode ocorrer."
     }
+  ],
+  "external": [
+    "https://brunoquiz.brunosaibert.vercel.app/",
+    "https://quiz-contemplese.ricardoltt.vercel.app/",
+    "https://design-pattern-quiz.fernandoasg.vercel.app/",
+    "https://you-dont-know-js-quiz.vercel.app/",
+    "https://chessquiz-alura.leo0liveira.vercel.app/",
+    "https://quiz-imersao-react.olucasalves.vercel.app/",
+    "https://churrasquiz.reginokaa.vercel.app/",
+    "https://wanda-vision-aluraquiz.marilira.vercel.app/",
+    "https://dontstarvetogether-base.lucaserlerpereira.vercel.app/",
+    "https://imersao-react-nextjs.fallying.vercel.app/",
+    "https://quiz-livros.luizaacampos.vercel.app/",
+    "https://harry-potter-quiz.lucianoweslen11.vercel.app/",
+    "https://alura-quiz-4tmo0mwdf.vercel.app/",
+    "https://aluraquizpokemon.cesarrobertopg.vercel.app/",
+    "https://aluraquiz-halloween.lucaskuhn.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#00FFFF",
+      "secondary": "#29b6f6",
+      "mainBg": "#FFFFFF",
+      "contrastText": "#000000",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "5px"
   }
+}
